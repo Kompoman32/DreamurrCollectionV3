@@ -1,0 +1,17 @@
+name = "Tony's Weapons"
+filename = "tonys_weapons-1.1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/L7z2k1ep/versions/h8IsUe13/tonys_weapons-1.1.0.jar"
+hash-format = "sha512"
+hash = "3a8a427a062a2393276f36e4e239409784bd6a3e81e74ccb71705a8d47ee62724b68abfc17fc41bcfe9b414dd5418b8ac32c6ae3a397366b674363117a803b66"
+
+[update]
+[update.modrinth]
+mod-id = "L7z2k1ep"
+version = "h8IsUe13"
+
+[update.do_updates]
+do_updates = "true"

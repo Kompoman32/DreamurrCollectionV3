@@ -1,0 +1,17 @@
+name = "Unpleasant Gradient"
+filename = "a_very_unpleasant_mod-1.1.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/qDMNVPMf/versions/btKlrygA/a_very_unpleasant_mod-1.1.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "7104bf03a2e343637048bd3d088c3226b1d6ee2f465dde322969047c0ffe75ffe431b32b79355f4041a7221195a1d8a23293e8b1837f3e53b0b19e61b17d11e1"
+
+[update]
+[update.modrinth]
+mod-id = "qDMNVPMf"
+version = "btKlrygA"
+
+[update.do_updates]
+do_updates = "true"

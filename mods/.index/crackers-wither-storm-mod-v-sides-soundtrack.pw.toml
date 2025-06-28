@@ -1,0 +1,17 @@
+name = "Cracker's Wither Storm Mod: V-Sides Soundtrack"
+filename = "CWSM V-Sides 1.20.1 1.1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/dXudHaYl/versions/YcW06IFe/CWSM V-Sides 1.20.1 1.1.0.jar"
+hash-format = "sha512"
+hash = "538c53ccfeea2e49c694ea4dba50b411a114d6bd2f85a08786c69f0cc0fa94c0607553685997bdecf411ce72dbbf6ebfc8b22273660bb55d0b657515be69061c"
+
+[update]
+[update.modrinth]
+mod-id = "dXudHaYl"
+version = "YcW06IFe"
+
+[update.do_updates]
+do_updates = "true"

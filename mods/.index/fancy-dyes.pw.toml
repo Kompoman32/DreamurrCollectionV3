@@ -1,0 +1,17 @@
+name = "Fancy Dyes"
+filename = "fancydyes-2.2.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/weDXQCzq/versions/c86syfh5/fancydyes-2.2.1.jar"
+hash-format = "sha512"
+hash = "0b09bc333ae9f604fd858e7889b4644863c19a3b944b9e30f8121a2bd48005cfca636619d0c78b306d4dc754eaf1bca03f8fd47671b06d03798aac508492856a"
+
+[update]
+[update.modrinth]
+mod-id = "weDXQCzq"
+version = "c86syfh5"
+
+[update.do_updates]
+do_updates = "true"

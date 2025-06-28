@@ -1,0 +1,17 @@
+name = "Mob Battle Mod"
+filename = "mobbattle-1.20.1-2.5.3-forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/LbrJcAlI/versions/JnhxJb0O/mobbattle-1.20.1-2.5.3-forge.jar"
+hash-format = "sha512"
+hash = "981807b63f45eb35f51c199ba02abfcc38ab853ec60d4a975294cabed8ff72271f966f72ab705bfe83423e46bd3e71d0679bb647c83ca8f6cead3a5e5b15db3b"
+
+[update]
+[update.modrinth]
+mod-id = "LbrJcAlI"
+version = "JnhxJb0O"
+
+[update.do_updates]
+do_updates = "true"

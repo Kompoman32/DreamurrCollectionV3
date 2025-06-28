@@ -1,0 +1,17 @@
+name = "Tony's Fast Food"
+filename = "Tony's Fast Food V3.1.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Ps2iEhkV/versions/8DOw0C4S/Tony%27s Fast Food V3.1.1.jar"
+hash-format = "sha512"
+hash = "9a47413c4d45a99ab188565e831a231fd4f602eb4d8807d7a40219bb8c89f052bf27a18adb7baec088380278b4009c4524b08da20018fb9bc24a40832b311c3a"
+
+[update]
+[update.modrinth]
+mod-id = "Ps2iEhkV"
+version = "8DOw0C4S"
+
+[update.do_updates]
+do_updates = "true"

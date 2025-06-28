@@ -1,0 +1,17 @@
+name = "Pufferfish's Skills"
+filename = "puffish_skills-0.16.3-1.20-forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/hqQqvaa4/versions/LL2IGfhQ/puffish_skills-0.16.3-1.20-forge.jar"
+hash-format = "sha512"
+hash = "fac1db73486af31f5c11d4d9b019f6e956364bb8be1849f7bf4053f07ba8e0f633d5b6feea238172616e7ba8519a49e3484f214a011f678253bca16256b6fe70"
+
+[update]
+[update.modrinth]
+mod-id = "hqQqvaa4"
+version = "LL2IGfhQ"
+
+[update.do_updates]
+do_updates = "true"

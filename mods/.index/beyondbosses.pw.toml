@@ -1,0 +1,17 @@
+name = "BeyondBosses"
+filename = "bb-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/uxgOo3ym/versions/FKdr2Z3J/bb-1.0.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "aa5efb8082026cad6e4a37078aa672946befedbfe6a6f1293df4a5c6168ccaf1f39aeb0b0be67524d4e2eb9f744a10ad14de3e1605c9552b5e18e7d42e7d3ca4"
+
+[update]
+[update.modrinth]
+mod-id = "uxgOo3ym"
+version = "FKdr2Z3J"
+
+[update.do_updates]
+do_updates = "true"

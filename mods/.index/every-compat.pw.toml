@@ -1,0 +1,17 @@
+name = "Every Compat"
+filename = "everycomp-1.20-2.8.10-forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/eiktJyw1/versions/tpbXu6CX/everycomp-1.20-2.8.10-forge.jar"
+hash-format = "sha512"
+hash = "df01a31a470cedfd6d9c8d306e3c9f7c60cac15e9ef65979ba7ee0275a1ce49c941047b08ab12b67c9dfe1423c8214101de09aed3cf3de5e483e0e98e661d046"
+
+[update]
+[update.modrinth]
+mod-id = "eiktJyw1"
+version = "tpbXu6CX"
+
+[update.do_updates]
+do_updates = "true"

@@ -1,0 +1,17 @@
+name = "Mystical Agriculture Tiered Crystals"
+filename = "matc-1.6.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/4fCwcdXD/versions/4cno74AQ/matc-1.6.0.jar"
+hash-format = "sha512"
+hash = "9e6278ea0bc462ceafa345413c9e155c8d782eec92985da84a5ba31843fbf38d286e12f3ff61d5ce4023c47e5b2b03b78c834d750561937ea7909ba62544259a"
+
+[update]
+[update.modrinth]
+mod-id = "4fCwcdXD"
+version = "4cno74AQ"
+
+[update.do_updates]
+do_updates = "true"

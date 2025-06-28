@@ -1,0 +1,17 @@
+name = "Chat Plus"
+filename = "chatplus-forge-2.6.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/cJlZ132G/versions/GsX0OtxY/chatplus-forge-2.6.0.jar"
+hash-format = "sha512"
+hash = "8ce9106a7e5aa99f5205afdb71ffedd38ef2ae35ebcb9ab37a59205d4eaead280d4ec75aa958d1a238d2a27cde35483230d31f60242c1716f9e6d4a9f75c18a5"
+
+[update]
+[update.modrinth]
+mod-id = "cJlZ132G"
+version = "GsX0OtxY"
+
+[update.do_updates]
+do_updates = "true"

@@ -1,0 +1,17 @@
+name = "Agricultural Enhancements"
+filename = "agriculturalenhancements-FORGE-1.20.1-0.3.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/80cKsODL/versions/RSGrjREn/agriculturalenhancements-FORGE-1.20.1-0.3.1.jar"
+hash-format = "sha512"
+hash = "a4c1d470c72240363262b0c05f25e79694e87d5813c6fb2f9146da14f2db31fb9cfd2778524a53b639aa2343f54a157b096b69f8b0c6eb0c516a9c2f37f015d5"
+
+[update]
+[update.modrinth]
+mod-id = "80cKsODL"
+version = "RSGrjREn"
+
+[update.do_updates]
+do_updates = "true"

@@ -1,0 +1,17 @@
+name = "Mekanism Addon: Rotten Flesh To Bio Fuel"
+filename = "rottenfleshtobiofuel-1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/T9EYZ6cV/versions/5y4SI2U8/rottenfleshtobiofuel-1.0.jar"
+hash-format = "sha512"
+hash = "7ba62bf117d231bb5675280f59e004cdc9d2dec732ba9b826182d730afa9400627dc3e064b7f428ead0e52ace859b435b9a03802bdb63026c85701926662edcb"
+
+[update]
+[update.modrinth]
+mod-id = "T9EYZ6cV"
+version = "5y4SI2U8"
+
+[update.do_updates]
+do_updates = "true"

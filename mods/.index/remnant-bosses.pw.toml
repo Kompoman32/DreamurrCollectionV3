@@ -1,0 +1,17 @@
+name = "Remnant Bosses (RPG Series)"
+filename = "remnant_bosses-1.2.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/coZxDAGe/versions/JFjkxeb6/remnant_bosses-1.2.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "f74b7fd71456145ead3a8eac8e426d3496083894f4abc9d3f215f54ad12375056bf89c6542b62403581ec5c37812b8e83838521d8c6c4d96f7c1ba2498adddef"
+
+[update]
+[update.modrinth]
+mod-id = "coZxDAGe"
+version = "JFjkxeb6"
+
+[update.do_updates]
+do_updates = "true"

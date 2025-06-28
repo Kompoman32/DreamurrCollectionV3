@@ -1,0 +1,17 @@
+name = "jauml"
+filename = "jauml-1.0.3-forge-1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ihvBalM2/versions/Ap1oNJ7k/jauml-1.0.3-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "1d76be94eefac01a9cb0811829cac4226985711e0941f9a87b128f2e0912940a4bb5ff7facda574a6371629739bce3aad511833f431d9043c43efd33e28df9db"
+
+[update]
+[update.modrinth]
+mod-id = "ihvBalM2"
+version = "Ap1oNJ7k"
+
+[update.do_updates]
+do_updates = "true"

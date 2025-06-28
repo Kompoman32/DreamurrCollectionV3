@@ -1,0 +1,17 @@
+name = "Tony's Structures"
+filename = "tonys_structures-1.3.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/yzoRWZpp/versions/O0jRRZZt/tonys_structures-1.3.0.jar"
+hash-format = "sha512"
+hash = "8f37fd962e7a72422d68691da63fffff72858f5b0c70a9780e154e99fdad8536babfb6a0666e3ce99edf3d6525d11d53c4d33972eb20b36410eff329b67d4c75"
+
+[update]
+[update.modrinth]
+mod-id = "yzoRWZpp"
+version = "O0jRRZZt"
+
+[update.do_updates]
+do_updates = "true"

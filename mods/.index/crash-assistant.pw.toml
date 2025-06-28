@@ -1,0 +1,17 @@
+name = "Crash Assistant"
+filename = "CrashAssistant-forge-1.19.2-1.20.1-1.9.6.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ix1qq8Ux/versions/35bM5x6U/CrashAssistant-forge-1.19.2-1.20.1-1.9.6.jar"
+hash-format = "sha512"
+hash = "5ee976d31692491272b1a6511e735aac5e1242516047150654bb198c4b760d90f577f3de4621d5f3185f940fdfdcb2c2e5947b159ad1740021f94bba461bb5f8"
+
+[update]
+[update.modrinth]
+mod-id = "ix1qq8Ux"
+version = "35bM5x6U"
+
+[update.do_updates]
+do_updates = "true"

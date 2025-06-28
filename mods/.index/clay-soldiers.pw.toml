@@ -1,0 +1,17 @@
+name = "Clay Soldiers"
+filename = "clay-1.0.0-forge-1.20.1-1.20.4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/7b2B0QcO/versions/Ebztqh1Y/clay-1.0.0-forge-1.20.1-1.20.4.jar"
+hash-format = "sha512"
+hash = "6c4be6815f511b18cc23c6eca17a1236e3e3df4019ad7dbfd0b1f6ad593c668d9e22c800b2e667e8dd0d13aff764cf1b94e0b875e75a86e13ae3e442ca9cba91"
+
+[update]
+[update.modrinth]
+mod-id = "7b2B0QcO"
+version = "Ebztqh1Y"
+
+[update.do_updates]
+do_updates = "true"

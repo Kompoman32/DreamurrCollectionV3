@@ -1,0 +1,17 @@
+name = "Wooden Jetpack"
+filename = "wooden-jetpack 1.0 - 1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/l5sYIoLG/versions/GoEwhogV/wooden-jetpack 1.0 - 1.20.1.jar"
+hash-format = "sha512"
+hash = "d30136be6b447bac7c782dd7b468a97d9f1289c4deebb2d272ee0283e6b3d6419b7f2f2d73bc7c6317dd61857d3ac546f75b93548399bfeea467fbd2180fc7eb"
+
+[update]
+[update.modrinth]
+mod-id = "l5sYIoLG"
+version = "GoEwhogV"
+
+[update.do_updates]
+do_updates = "true"

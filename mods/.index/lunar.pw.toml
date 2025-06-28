@@ -1,0 +1,17 @@
+name = "Lunar"
+filename = "Lunar-forge-1.20.1-0.2.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/PwhlJMsW/versions/wn4V8sxo/Lunar-forge-1.20.1-0.2.2.jar"
+hash-format = "sha512"
+hash = "c6de6ebf8d168703276a5a3e0b9c5d15f2e42c67fbaf7adddc2532636df2f03a13ff944cbd73ed2916acb662fd2d587e5214235f736059ccbab2c69179260da1"
+
+[update]
+[update.modrinth]
+mod-id = "PwhlJMsW"
+version = "wn4V8sxo"
+
+[update.do_updates]
+do_updates = "true"
